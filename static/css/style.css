@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    height: 100vh;
+    background-image: url("/static/images/background.jpg");
+    background-position: center center;
+}
+
+main {
+    margin-top: 12rem;
+}
+
+.card {
+    opacity: .95;
+}
+
+.bi-star-fill {
+    color: gold;
+}
+
+/* .index>.card:hover {
+    transform: scale(1.1, 1.1);
+    box-shadow: 0 4px 8px 0 #d1e7dd, 0 6px 20px 0 #d1e7dd; 
+    cursor: pointer;
+} */
