@@ -9,7 +9,7 @@ html {
 
 body {
     height: 100vh;
-    background-image: url("asp-core-project1/static/images/background.jpg");
+    background-image: url("static/images/background.jpg");
     background-position: center center;
 }
 
